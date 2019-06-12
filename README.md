@@ -19,7 +19,7 @@ Whilst this will work for the device facing side, if we were to use the VIP from
 
 
 ### JSON layer
-#### JSON format
+#### JSON FORMAT
 The proposed JSON format is composed of the most useful information for the ham radio operator, but, at the same time, it was also equally defined thinking in additional uses and application developers. 
 
 ```
@@ -47,7 +47,7 @@ In essense, the JSON format can be divided into 3 different senctions:
 * extended data, useful for applications, filtering and scientific research (e-data)
 
 
-##### The timestamp
+##### THE TIMESTAMP AND ITS USAGE
 The timestamp has been defined in ISO format with 
 
 ```
@@ -55,7 +55,7 @@ The timestamp has been defined in ISO format with
 ``` 
 
 
-##### Basic data
+##### BASIC DATA
 Basic data is composed of the typical data any ham radio operator handles during radio operations. In essence, basic data is the bare minimum data the cluster can process to provide the necessary insights ham radio operators can use to correctly operate their rigs, either manyally or mechanically by means of CAT protocol. 
 
 ```
@@ -68,7 +68,7 @@ Basic data is composed of the typical data any ham radio operator handles during
 ``` 
 
 
-##### Extended data
+##### EXTENDED DATA
 Extended data includes that information that can be valuable for applications to provide filtering capabilities, personalization options and valuable data for scientific research, like path openings, statistical usage of the network or propagation predictions. 
 
 ```
