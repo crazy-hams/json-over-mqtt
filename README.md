@@ -1,4 +1,4 @@
-# JSON over MQTT specification
+# JOM: JSON over MQTT specification
 Specification documentation on the usage of JSON over MQTT for DX Cluster telemetry data
 
 ## Proposed solution
